@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4a03a926db73f676fd100289f525ef7d07cc773">
+        <dex dex="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cd41149bebeb19b9f724498c1bfa0631196c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c4cc8535e632d507e6602f54bcea0c63fec94280/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="455c00d38edc728340ff81b249a330264edc6e74">
-        <dex dex="/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cd41149bebeb19b9f724498c1bfa0631196c55/classes.dex" />
     </item>
 
 </items>

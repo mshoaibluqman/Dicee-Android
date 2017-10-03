@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:3:5-37
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -37,10 +37,10 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muha
 		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.mshoaibnuman.dicee.MainActivity
+activity#com.mshoaibluqman.dicee.MainActivity
 ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:12:19-69
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:12:19-70
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
