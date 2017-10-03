@@ -1,0 +1,7 @@
+#Tue Oct 03 23:34:09 PKT 2017
+base.0=/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cd41149bebeb19b9f724498c1bfa0631196c55
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c4cc8535e632d507e6602f54bcea0c63fec94280/classes.dex
+base.1=/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c4cc8535e632d507e6602f54bcea0c63fec94280
+file.0=/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31cd41149bebeb19b9f724498c1bfa0631196c55/classes.dex

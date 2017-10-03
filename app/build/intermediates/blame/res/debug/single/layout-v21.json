@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muhammadirfan/.android/build-cache/0a76e147a5ee3a0842e4119a3a862b4c24ee1576/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muhammadirfan/.android/build-cache/5e2129ce944bab2fb7efdf7a005d28ee7a525e91/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muhammadirfan/.android/build-cache/73ccdae612ef7534dd2af7e6a249921847fe81fb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muhammadirfan/.android/build-cache/035be6982f4d4efc7ece62c88d01a4fb5c9f978c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muhammadirfan/.android/build-cache/6f9e21adeddd28cef147a256c27b53a4200c19d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muhammadirfan/.android/build-cache/f446e4cb16f2f92c4019c8b9812d6e019ff80d3f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muhammadirfan/.android/build-cache/2ace6a2115f82c049ccdbfcf7c589e62c0e8e4c9/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muhammadirfan/.android/build-cache/6d4773158e53139ed44b86640faac77a86c751bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muhammadirfan/.android/build-cache/eeeadfba6c19015e75814f23c38cbdba41bd2ed9/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.mshoaibnuman.dicee.MainActivity
+ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:12:19-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muhammadirfan/.android/build-cache/0a76e147a5ee3a0842e4119a3a862b4c24ee1576/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muhammadirfan/.android/build-cache/5e2129ce944bab2fb7efdf7a005d28ee7a525e91/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muhammadirfan/.android/build-cache/73ccdae612ef7534dd2af7e6a249921847fe81fb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muhammadirfan/.android/build-cache/035be6982f4d4efc7ece62c88d01a4fb5c9f978c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muhammadirfan/.android/build-cache/6f9e21adeddd28cef147a256c27b53a4200c19d9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muhammadirfan/.android/build-cache/f446e4cb16f2f92c4019c8b9812d6e019ff80d3f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muhammadirfan/.android/build-cache/2ace6a2115f82c049ccdbfcf7c589e62c0e8e4c9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muhammadirfan/.android/build-cache/6d4773158e53139ed44b86640faac77a86c751bc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/muhammadirfan/.android/build-cache/eeeadfba6c19015e75814f23c38cbdba41bd2ed9/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/muhammadirfan/.android/build-cache/0a76e147a5ee3a0842e4119a3a862b4c24ee1576/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/muhammadirfan/.android/build-cache/5e2129ce944bab2fb7efdf7a005d28ee7a525e91/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/muhammadirfan/.android/build-cache/73ccdae612ef7534dd2af7e6a249921847fe81fb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/muhammadirfan/.android/build-cache/035be6982f4d4efc7ece62c88d01a4fb5c9f978c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/muhammadirfan/.android/build-cache/6f9e21adeddd28cef147a256c27b53a4200c19d9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/muhammadirfan/.android/build-cache/f446e4cb16f2f92c4019c8b9812d6e019ff80d3f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/muhammadirfan/.android/build-cache/2ace6a2115f82c049ccdbfcf7c589e62c0e8e4c9/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/muhammadirfan/.android/build-cache/6d4773158e53139ed44b86640faac77a86c751bc/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/muhammadirfan/.android/build-cache/6c17b237d8a67fdbba479504571da52e56a1e1a4/output/AndroidManifest.xml:26:9-47

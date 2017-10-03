@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/muhammadirfan/Documents/Orange/Android/London-App-Brewery/Dicee/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
